@@ -1,0 +1,1 @@
+If you make "userIsRegistered" as 'false' in App.jsx then it will show Register with Confirm Password Block either its login page
